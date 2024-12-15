@@ -51,7 +51,7 @@ With its intuitive graphical interface, this tool empowers users to make informe
 ## Usage
 1. Run the application:
     ```bash
-    python ingredient_inspector.py
+    python main.py
     ```
 2. Use the GUI to:
     - Upload an image of a product label.
