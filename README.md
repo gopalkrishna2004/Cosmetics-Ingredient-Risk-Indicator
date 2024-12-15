@@ -66,25 +66,6 @@ With its intuitive graphical interface, this tool empowers users to make informe
 ## Screenshots
 (Add screenshots of the GUI here to demonstrate functionality.)
 
-## Contributing
-1. Fork the repository.
-2. Create a feature branch:
-    ```bash
-    git checkout -b feature-name
-    ```
-3. Commit your changes:
-    ```bash
-    git commit -m 'Add feature-name'
-    ```
-4. Push to the branch:
-    ```bash
-    git push origin feature-name
-    ```
-5. Open a pull request.
-
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Acknowledgments
 - Tesseract OCR
 - Sentence Transformers
