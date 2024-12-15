@@ -1,13 +1,13 @@
 # Ingredient Inspector: AI-Powered Cosmetics Ingredient Risk Indicator
 
 ## Overview
-Ingredient Inspector is an AI-driven tool designed to assess the safety of cosmetic products by analyzing their ingredient lists. The application uses cutting-edge AI models to identify potentially harmful ingredients, highlight them in product labels, and provide detailed side effect information. 
+Ingredient Inspector is an AI-driven tool designed to assess the safety of cosmetic products by analyzing their ingredient lists. The application uses AI methods to identify potentially harmful ingredients, highlight them in product labels, and provide detailed side effect information. 
 
 With its intuitive graphical interface, this tool empowers users to make informed decisions about the cosmetic products they use.
 
 ## Features
 - **Ingredient Detection**: Extracts ingredient lists from product labels using Optical Character Recognition (OCR).
-- **Harmful Ingredient Identification**: Compares extracted ingredients against a database of known harmful substances using AI-powered similarity matching.
+- **Harmful Ingredient Identification**: Compares extracted ingredients against a database of known harmful substances using similarity matching.
 - **Side Effect Analysis**: Uses Generative AI (Gemini API) to retrieve concise side effect summaries for each harmful ingredient.
 - **Visualization**: Highlights unsafe ingredients directly on the product label image.
 - **Image Retrieval**: Fetches representative images of side effects from Google Custom Search API.
