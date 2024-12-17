@@ -13,7 +13,7 @@ import google.generativeai as genai
 import requests
 import io
 
-genai.configure(api_key='AIzaSyB4ksPZ60vmG8nAE3DWZo8ZFjD5fE9Us5k')
+genai.configure(api_key='gemini api')
 
 # Initialize the generative model
 model = genai.GenerativeModel('gemini-1.5-flash')
@@ -201,7 +201,7 @@ def get_google_images(query, api_key, cx):
         print(f"Error: {response.status_code}")
         return []
 
-google_api_key = "AIzaSyCFBUj69RlPFcuanFS__mMq9Q0aswXbC10"
+google_api_key = "google search api"
 google_cx = "04d022967f9404c32"
 
 def fetch_images_for_side_effects(side_effects_list, api_key, cx):
