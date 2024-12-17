@@ -44,7 +44,7 @@ With its intuitive graphical interface, this tool empowers users to make informe
 1. Clone this repository:
     ```bash
     git clone https://github.com/your-repo/ingredient-inspector.git
-    cd ingredient-inspector
+    cd Ingredient_lnspector
     ```
 2. Place the `harmful_ingredients.xlsx` file in the project directory. This file should contain a list of harmful ingredients in column A, starting from row 2.
 
@@ -64,7 +64,7 @@ With its intuitive graphical interface, this tool empowers users to make informe
 3. **Output**: Unsafe ingredients are highlighted on the image, and detailed side effect information is displayed with illustrative images.
 
 ## Screenshots
-(Add screenshots of the GUI here to demonstrate functionality.)
+![Interface](relative/path/to/image.png)
 
 ## Acknowledgments
 - Tesseract OCR
