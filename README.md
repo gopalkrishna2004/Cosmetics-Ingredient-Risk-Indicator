@@ -64,7 +64,8 @@ With its intuitive graphical interface, this tool empowers users to make informe
 3. **Output**: Unsafe ingredients are highlighted on the image, and detailed side effect information is displayed with illustrative images.
 
 ## Screenshots
-![Interface](Ingredient_Inspector/Test Images/harmful.jpeg)
+![INTERFACE](Ingredient_Inspector/Test%20Images/harmful.jpeg)
+
 
 ## Acknowledgments
 - Tesseract OCR
