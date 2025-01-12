@@ -46,7 +46,7 @@ With its intuitive graphical interface, this tool empowers users to make informe
     git clone https://github.com/your-repo/ingredient-inspector.git
     cd Ingredient_lnspector
     ```
-2. Place the `harmful_ingredients.xlsx` file in the project directory. This file should contain a list of harmful ingredients in column A, starting from row 2.
+2. Place the `harmful_ingredients.xlsx` file in the project directory. This file contains a list of harmful ingredients in column A, starting from row 2.
 
 ## Usage
 1. Run the application:
